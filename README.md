@@ -35,5 +35,5 @@ Enter one of the following teams into the function:
 - Los Angeles Kings
 - San Jose Sharks
 - Seattle Kraken
-Vancouver Canucks
-Vegas Golden Knights
+- Vancouver Canucks
+- Vegas Golden Knights
